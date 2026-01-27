@@ -1,0 +1,8 @@
+{
+  "name": "告别时光 (Farewell Moment)",
+  "description": "一个用于情感告别、遗言留存与生命见证的虚拟空间应用。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
