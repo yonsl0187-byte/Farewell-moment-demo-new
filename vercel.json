@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "name": "farewell-moment",
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "github": {
+    "enabled": true,
+    "autoAlias": true
+  },
+  "env": {
+    "GEMINI_API_KEY": "@gemini-api-key"
+  },
+  "regions": ["iad1"]
+}
